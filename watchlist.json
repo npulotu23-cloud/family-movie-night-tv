@@ -1,6 +1,126 @@
 {
  "movies": [
   {
+   "age": "CSM 7+",
+   "glow": "rgba(240,150,50,.35)",
+   "id": "chicken-run-dawn-of-the-nugget",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "Ginger and Rocky's daughter sneaks into a sinister nugget factory, and the flock has to break in to get her out.",
+   "poster": "posters/chicken-run-dawn-of-the-nugget.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 101,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    }
+   ],
+   "title": "Chicken Run: Dawn of the Nugget",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81223025"
+    }
+   ],
+   "year": 2023
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(130,80,220,.35)",
+   "id": "hotel-transylvania",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "Dracula's overprotective plan for his daughter's 118th birthday goes sideways when a human wanders into his monster hotel.",
+   "poster": "posters/hotel-transylvania.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 92,
+   "stream": [
+    {
+     "d": "Included with Hulu.",
+     "how": "inc",
+     "svc": "Hulu"
+    },
+    {
+     "d": "Paramount+ subscription.",
+     "how": "sub",
+     "svc": "Paramount+"
+    },
+    {
+     "d": "Rent $3.99. Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Hotel Transylvania",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hulu",
+     "name": "Hulu",
+     "url": "https://www.hulu.com/watch/e03a6dbb-19bd-4029-b044-b3fb62f3adc5"
+    },
+    {
+     "how": "sub",
+     "key": "paramount",
+     "name": "Paramount+",
+     "url": "https://www.paramountplus.com/movies/hotel-transylvania/ALVE01M0GT64DBEX2TVEAGMVMSH3HE"
+    }
+   ],
+   "year": 2012
+  },
+  {
    "age": "CSM 8+",
    "glow": "rgba(240,190,90,.35)",
    "id": "the-king-of-kings-2025",
@@ -882,5 +1002,5 @@
    "year": 2024
   }
  ],
- "updated": "2026-11-20T03:34:58Z"
+ "updated": "2026-11-20T11:11:23Z"
 }
