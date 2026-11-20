@@ -1,0 +1,886 @@
+{
+ "movies": [
+  {
+   "age": "CSM 8+",
+   "glow": "rgba(240,190,90,.35)",
+   "id": "the-king-of-kings-2025",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "Charles Dickens tells his young son the story of Jesus, and the boy imagines himself inside it.",
+   "poster": "posters/the-king-of-kings-2025.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 101,
+   "stream": [
+    {
+     "d": "Included with Angel.",
+     "how": "inc",
+     "svc": "Angel"
+    },
+    {
+     "d": "Paramount+ subscription.",
+     "how": "sub",
+     "svc": "Paramount+"
+    },
+    {
+     "d": "Rent $5.99. Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "The King of Kings",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "angel",
+     "name": "Angel",
+     "url": "https://www.angel.com/title/movie/69948321-6173-4d15-96da-fc652409f9a2"
+    },
+    {
+     "how": "sub",
+     "key": "paramount",
+     "name": "Paramount+",
+     "url": "https://www.paramountplus.com/movies/king-of-kings/ALVE01M4SD3CJGEZ3S3YFY9YH51FZX"
+    }
+   ],
+   "year": 2025
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(60,170,120,.35)",
+   "id": "paddington-in-peru",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "The Browns head to Peru to find a missing Aunt Lucy, with a riverboat captain who isn't what he seems.",
+   "poster": "posters/paddington-in-peru.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 106,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    },
+    {
+     "d": "Rent $3.99. Buy $12.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Paddington in Peru",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81776760"
+    }
+   ],
+   "year": 2024
+  },
+  {
+   "age": "CSM 7+",
+   "glow": "rgba(60,180,210,.35)",
+   "id": "dolphin-tale",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A boy befriends an injured dolphin and helps her swim again with a prosthetic tail. Based on a true story.",
+   "poster": "posters/dolphin-tale.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 0,
+     "w": "Very little"
+    }
+   ],
+   "runtime": 113,
+   "stream": [
+    {
+     "d": "Included with Prime Video.",
+     "how": "inc",
+     "svc": "Prime Video"
+    },
+    {
+     "d": "Rent $5.99. Buy from $7.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Dolphin Tale",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "prime",
+     "name": "Prime Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.aea9f7a1-caed-3515-b192-1e1542652f22"
+    }
+   ],
+   "year": 2011
+  },
+  {
+   "age": "CSM 8+",
+   "glow": "rgba(170,90,200,.35)",
+   "id": "wonka",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A young Willy Wonka tries to open his chocolate shop and outsmart a cartel of rival chocolatiers.",
+   "poster": "posters/wonka.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 116,
+   "stream": [
+    {
+     "d": "Included with HBO Max.",
+     "how": "inc",
+     "svc": "HBO Max"
+    },
+    {
+     "d": "Rent $4.99. Buy from $9.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Wonka",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hbo",
+     "name": "HBO Max",
+     "url": "https://play.hbomax.com/show/c34d4c23-39eb-4eb8-95dd-209fa0cb3fb4"
+    }
+   ],
+   "year": 2023
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(90,200,230,.35)",
+   "id": "migration-2023",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "An overprotective duck dad finally takes his family on their first migration, to Jamaica.",
+   "poster": "posters/migration-2023.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 83,
+   "stream": [
+    {
+     "d": "Included with Prime Video.",
+     "how": "inc",
+     "svc": "Prime Video"
+    },
+    {
+     "d": "Peacock Premium.",
+     "how": "sub",
+     "svc": "Peacock"
+    },
+    {
+     "d": "Rent $3.99. Buy from $4.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Migration",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "prime",
+     "name": "Prime Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.47636fc2-5a22-48a3-9702-30fc3198f736"
+    },
+    {
+     "how": "sub",
+     "key": "peacock",
+     "name": "Peacock",
+     "url": "https://www.peacocktv.com/watch/asset/movies/migration/71209847-7993-30ad-8d7f-4c06d52e0b19"
+    }
+   ],
+   "year": 2023
+  },
+  {
+   "age": "CSM 8+",
+   "glow": "rgba(60,170,220,.35)",
+   "id": "the-sea-beast",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A girl stows away on a monster-hunting ship and finds out the sea beasts aren't what everyone says.",
+   "poster": "posters/the-sea-beast.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 115,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    }
+   ],
+   "title": "The Sea Beast",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81018682"
+    }
+   ],
+   "year": 2022
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(230,180,90,.35)",
+   "id": "david-2025",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "An animated musical that follows David from shepherd boy to giant-slayer to king.",
+   "poster": "posters/david-2025.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 115,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    },
+    {
+     "d": "Included with Angel.",
+     "how": "inc",
+     "svc": "Angel"
+    },
+    {
+     "d": "Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "David",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/82836255"
+    },
+    {
+     "how": "inc",
+     "key": "angel",
+     "name": "Angel",
+     "url": "https://www.angel.com/title/movie/06637688-6ebe-4c6a-b864-415b9687fd4c"
+    }
+   ],
+   "year": 2025
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(80,200,140,.35)",
+   "id": "the-bad-guys-2022",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A gang of animal criminals pretends to go good, then starts to wonder if they actually could.",
+   "poster": "posters/the-bad-guys-2022.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 100,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    },
+    {
+     "d": "Rent $3.99. Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "The Bad Guys",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81513703"
+    }
+   ],
+   "year": 2022
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(230,60,50,.35)",
+   "id": "paddington-2",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "Paddington takes odd jobs to buy Aunt Lucy a birthday present, gets framed for stealing it, and lands in prison.",
+   "poster": "posters/paddington-2.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 103,
+   "stream": [
+    {
+     "d": "Included with HBO Max.",
+     "how": "inc",
+     "svc": "HBO Max"
+    },
+    {
+     "d": "Rent $5.99. Buy from $7.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Paddington 2",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hbo",
+     "name": "HBO Max",
+     "url": "https://play.hbomax.com/show/2f105508-af55-40fa-a2ce-59b021ce19bf"
+    }
+   ],
+   "year": 2017
+  },
+  {
+   "age": "CSM 10+",
+   "glow": "rgba(255,90,60,.35)",
+   "id": "speed-racer",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A teen racing prodigy takes on a crooked racing empire in a candy-colored, all-action race epic.",
+   "poster": "posters/speed-racer.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 2,
+     "w": "Some"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 2,
+     "w": "Some"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 135,
+   "stream": [
+    {
+     "d": "Included with Prime Video.",
+     "how": "inc",
+     "svc": "Prime Video"
+    },
+    {
+     "d": "Add-on channel inside Prime Video, $2.99/mo. Not included with Prime.",
+     "how": "ch",
+     "svc": "Howdy channel on Prime"
+    },
+    {
+     "d": "Rent $5.99. Buy from $7.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV, Fandango"
+    }
+   ],
+   "title": "Speed Racer",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "prime",
+     "name": "Prime Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.1aa9f741-7ed6-9f7a-5a59-eef6e0ac1fcf"
+    }
+   ],
+   "year": 2008
+  },
+  {
+   "age": "CSM 9+",
+   "glow": "rgba(70,150,255,.35)",
+   "id": "secret-headquarters",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A teen and his friends find his dad's hidden superhero base and have to defend it from mercenaries.",
+   "poster": "posters/secret-headquarters.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 2,
+     "w": "Some"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 3,
+     "w": "A lot"
+    }
+   ],
+   "runtime": 104,
+   "stream": [
+    {
+     "d": "Included with Prime Video. JustWatch lists it as leaving Prime around Nov 30.",
+     "how": "inc",
+     "svc": "Prime Video"
+    },
+    {
+     "d": "Rent from $3.99. Buy from $4.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV, Fandango"
+    }
+   ],
+   "title": "Secret Headquarters",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "prime",
+     "name": "Prime Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.b6e16d96-a924-4d4d-b1d5-215f295e8883"
+    }
+   ],
+   "year": 2022
+  },
+  {
+   "age": "CSM 9+",
+   "glow": "rgba(255,160,40,.35)",
+   "id": "rebound",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A hotheaded college coach gets stuck coaching a hopeless middle-school basketball team.",
+   "poster": "posters/rebound.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 1,
+     "w": "Mild"
+    }
+   ],
+   "runtime": 87,
+   "stream": [
+    {
+     "d": "Included with Prime Video.",
+     "how": "inc",
+     "svc": "Prime Video"
+    },
+    {
+     "d": "Free with ads.",
+     "how": "free",
+     "svc": "Tubi"
+    },
+    {
+     "d": "Rent $3.99. Buy from $4.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV, Fandango"
+    }
+   ],
+   "title": "Rebound",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "prime",
+     "name": "Prime Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.60a9f718-ac49-c1fb-a881-dcb212df2689"
+    },
+    {
+     "how": "free",
+     "key": "tubi",
+     "name": "Tubi",
+     "url": "https://tubitv.com/movies/689532"
+    }
+   ],
+   "year": 2005
+  },
+  {
+   "age": "CSM 8+",
+   "glow": "rgba(150,90,255,.35)",
+   "id": "clash-of-the-thundermans",
+   "lg": {
+    "state": "none",
+    "text": "None found. The Common Sense Media review doesn't mention any."
+   },
+   "line": "The superhero Thunderman family reunites to stop a villain, and the siblings have to work as a team.",
+   "poster": "posters/clash-of-the-thundermans.jpg",
+   "rating": "TV-G",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 71,
+   "stream": [
+    {
+     "d": "Paramount+ Essential, $8.99/mo. Not one of your deck services.",
+     "how": "sub",
+     "svc": "Paramount+"
+    },
+    {
+     "d": "Add-on inside Prime Video, $8.99/mo. Not included with Prime.",
+     "how": "ch",
+     "svc": "Paramount+ channel on Prime"
+    },
+    {
+     "d": "Rent from $3.99. Buy $9.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV, Fandango"
+    }
+   ],
+   "title": "Clash of the Thundermans",
+   "watch": [
+    {
+     "how": "sub",
+     "key": "paramount",
+     "name": "Paramount+",
+     "url": "https://www.paramountplus.com/movies/clash-of-the-thundermans/ALVE01KTJ0V5J2E0YBYK9PBX2BTYT9"
+    },
+    {
+     "how": "rent",
+     "key": "amazon-rent",
+     "name": "Amazon",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.69aa2f0c-f54d-47be-b6e3-5f0901d6311b"
+    }
+   ],
+   "year": 2026
+  },
+  {
+   "above": "Above the deck's PG limit. Not rated in the US; Common Sense says 11+. It's here because you added it.",
+   "age": "CSM 11+",
+   "glow": "rgba(60,200,120,.35)",
+   "id": "panda-plan",
+   "lg": {
+    "state": "none",
+    "text": "None found. The Common Sense Media review doesn't mention any."
+   },
+   "line": "Jackie Chan, playing himself, races to stop a gang from kidnapping a baby panda.",
+   "poster": "posters/panda-plan.jpg",
+   "rating": "Not rated",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 3,
+     "w": "A lot"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 99,
+   "stream": [
+    {
+     "d": "Included with Prime Video.",
+     "how": "inc",
+     "svc": "Prime Video"
+    },
+    {
+     "d": "Peacock Premium, $12.99/mo.",
+     "how": "sub",
+     "svc": "Peacock"
+    },
+    {
+     "d": "Free with ads.",
+     "how": "free",
+     "svc": "Tubi, Roku Channel, Plex"
+    },
+    {
+     "d": "Add-on inside Prime Video, $3.99/mo.",
+     "how": "ch",
+     "svc": "Hi-YAH channel on Prime"
+    },
+    {
+     "d": "Rent from $4.99. Buy $9.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV, Fandango"
+    }
+   ],
+   "title": "Panda Plan",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "prime",
+     "name": "Prime Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.7c462371-62b5-4e60-90ae-134c76648283"
+    },
+    {
+     "how": "sub",
+     "key": "peacock",
+     "name": "Peacock",
+     "url": "https://www.peacocktv.com/watch/asset/movies/panda-plan/f9afc5e9-69ef-3fa2-a637-4a6efa351d51"
+    },
+    {
+     "how": "free",
+     "key": "tubi",
+     "name": "Tubi",
+     "url": "https://tubitv.com/movies/100064260"
+    }
+   ],
+   "year": 2024
+  }
+ ],
+ "updated": "2026-11-20T03:32:48Z"
+}
