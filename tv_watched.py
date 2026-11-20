@@ -4,7 +4,8 @@
   python3 -I tv_watched.py kids          # reads tv/watched-kids.json
   DATE_KEY=... python3 -I tv_watched.py date   # reads tv/watched-date.enc, scrambled with the Date Night passphrase
 
-Run from this repo's checkout. Prints one line per answer, "<doc id> <time in ms>", oldest first, and nothing when
+Run from this repo's checkout. Prints one line per answer, "<doc id> <time in ms> <stars>" (stars 1-5, or 0 when
+they skipped rating it), oldest first, and nothing when
 there are none (or the file can't be read). The TV writes these files with a GitHub token limited to this repo;
 the cloud routines mark each movie watched in the phone app and remember "<id>@<time>" so it is applied only once.
 """
@@ -40,9 +41,10 @@ def main(which):
     for w in read(which).get("watched", []):
         i, at = str(w.get("id", "")), w.get("at")
         if re.fullmatch(r"[a-z0-9][a-z0-9-]{0,120}", i) and isinstance(at, int) and at > 0:
-            rows.append((at, i))
-    for at, i in sorted(rows):
-        print(i, at)
+            st = w.get("stars")
+            rows.append((at, i, st if isinstance(st, int) and 1 <= st <= 5 else 0))
+    for at, i, st in sorted(rows):
+        print(i, at, st)
 
 
 if __name__ == "__main__":

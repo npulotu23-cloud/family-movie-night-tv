@@ -19,7 +19,7 @@ import json
 import os
 import sys
 
-KEEP = ("title", "year", "rating", "age", "runtime", "line", "glow", "lg", "stream", "above")
+KEEP = ("title", "year", "rating", "age", "runtime", "line", "glow", "lg", "stream", "above", "stars")
 
 
 def load_docs(folder):

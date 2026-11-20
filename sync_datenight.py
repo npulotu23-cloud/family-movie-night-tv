@@ -20,7 +20,7 @@ import re
 import subprocess
 import sys
 
-KEEP = ("title", "year", "rating", "type", "runtime", "seasons", "genres", "line", "about", "glow", "lg", "stream")
+KEEP = ("title", "year", "rating", "type", "runtime", "seasons", "genres", "line", "about", "glow", "lg", "stream", "stars")
 ENC = ["openssl", "enc", "-aes-256-cbc", "-pbkdf2", "-iter", "100000", "-md", "sha256", "-pass", "env:DATE_KEY"]
 
 
