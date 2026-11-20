@@ -8,7 +8,7 @@ Writes <repo dir>/date-night.enc and prints "changed" or "nochange"; commit and 
 
 The file is {"updated", "movies": [...]} encrypted with `openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -md sha256`
 and the passphrase in DATE_KEY, which only the couple knows (it is set in the cloud environment and on the TV).
-Without it the file is unreadable. Only "Our list" goes in: list "watchlist", status "cleared", not watched.
+Without it the file is unreadable. Only "Our list" goes in: list "watchlist", status "cleared"; watched ones carry "watched": true (the TV's Watched tab).
 Titles kept out ("kept") never do. Each title carries its poster as base64 ("poster_b64"): from the doc's
 `poster` data URI, else from the previous file, else from JustWatch's poster for that title.
 """
@@ -75,13 +75,17 @@ def main(folder, repo):
     old_posters = {m.get("id"): m.get("poster_b64", "") for m in old.get("movies", [])}
 
     ours = [(s, d) for s, d in docs.items()
-            if d.get("list") == "watchlist" and d.get("status") == "cleared" and not d.get("watched")]
-    ours.sort(key=lambda sd: (-(sd[1].get("addedAt") or 0), sd[0]))
+            if d.get("list") == "watchlist" and d.get("status") == "cleared"]
+    # Still to watch first (newest added first), then watched ones (most recently watched first): the TV's two tabs.
+    ours.sort(key=lambda sd: (1, -(sd[1].get("watchedAt") or 0), sd[0]) if sd[1].get("watched")
+              else (0, -(sd[1].get("addedAt") or 0), sd[0]))
 
     movies = []
     for slug, d in ours:
         m = {k: d[k] for k in KEEP if k in d}
         m["id"] = slug
+        if d.get("watched"):
+            m["watched"] = True
         m["rows"] = [{"k": r.get("k"), "l": r.get("l"), "w": r.get("w")} for r in d.get("rows", [])]
         m["watch"] = [{"key": w.get("key"), "name": w.get("name"), "how": w.get("how"), "url": w.get("url")}
                       for w in d.get("watch", [])]
