@@ -303,63 +303,6 @@
    "year": 2011
   },
   {
-   "age": "CSM 8+",
-   "glow": "rgba(170,90,200,.35)",
-   "id": "wonka",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "A young Willy Wonka tries to open his chocolate shop and outsmart a cartel of rival chocolatiers.",
-   "poster": "posters/wonka.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 116,
-   "stream": [
-    {
-     "d": "Included with HBO Max.",
-     "how": "inc",
-     "svc": "HBO Max"
-    },
-    {
-     "d": "Rent $4.99. Buy from $9.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV"
-    }
-   ],
-   "title": "Wonka",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "hbo",
-     "name": "HBO Max",
-     "url": "https://play.hbomax.com/show/c34d4c23-39eb-4eb8-95dd-209fa0cb3fb4"
-    }
-   ],
-   "year": 2023
-  },
-  {
    "age": "CSM 6+",
    "glow": "rgba(90,200,230,.35)",
    "id": "migration-2023",
@@ -1000,7 +943,65 @@
     }
    ],
    "year": 2024
+  },
+  {
+   "age": "CSM 8+",
+   "glow": "rgba(170,90,200,.35)",
+   "id": "wonka",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A young Willy Wonka tries to open his chocolate shop and outsmart a cartel of rival chocolatiers.",
+   "poster": "posters/wonka.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 116,
+   "stream": [
+    {
+     "d": "Included with HBO Max.",
+     "how": "inc",
+     "svc": "HBO Max"
+    },
+    {
+     "d": "Rent $4.99. Buy from $9.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Wonka",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hbo",
+     "name": "HBO Max",
+     "url": "https://play.hbomax.com/show/c34d4c23-39eb-4eb8-95dd-209fa0cb3fb4"
+    }
+   ],
+   "watched": true,
+   "year": 2023
   }
  ],
- "updated": "2026-11-20T11:11:23Z"
+ "updated": "2026-11-20T22:24:48Z"
 }
