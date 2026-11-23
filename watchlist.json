@@ -53,74 +53,6 @@
    "year": 2023
   },
   {
-   "age": "CSM 8+",
-   "glow": "rgba(240,190,90,.35)",
-   "id": "the-king-of-kings-2025",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "Charles Dickens tells his young son the story of Jesus, and the boy imagines himself inside it.",
-   "poster": "posters/the-king-of-kings-2025.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 0,
-     "w": "None"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 101,
-   "stream": [
-    {
-     "d": "Included with Angel.",
-     "how": "inc",
-     "svc": "Angel"
-    },
-    {
-     "d": "Paramount+ subscription.",
-     "how": "sub",
-     "svc": "Paramount+"
-    },
-    {
-     "d": "Rent $5.99. Buy $14.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV"
-    }
-   ],
-   "title": "The King of Kings",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "angel",
-     "name": "Angel",
-     "url": "https://www.angel.com/title/movie/69948321-6173-4d15-96da-fc652409f9a2"
-    },
-    {
-     "how": "sub",
-     "key": "paramount",
-     "name": "Paramount+",
-     "url": "https://www.paramountplus.com/movies/king-of-kings/ALVE01M4SD3CJGEZ3S3YFY9YH51FZX"
-    }
-   ],
-   "year": 2025
-  },
-  {
    "age": "CSM 6+",
    "glow": "rgba(60,170,120,.35)",
    "id": "paddington-in-peru",
@@ -774,6 +706,75 @@
    "year": 2024
   },
   {
+   "age": "CSM 8+",
+   "glow": "rgba(240,190,90,.35)",
+   "id": "the-king-of-kings-2025",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "Charles Dickens tells his young son the story of Jesus, and the boy imagines himself inside it.",
+   "poster": "posters/the-king-of-kings-2025.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 101,
+   "stream": [
+    {
+     "d": "Included with Angel.",
+     "how": "inc",
+     "svc": "Angel"
+    },
+    {
+     "d": "Paramount+ subscription.",
+     "how": "sub",
+     "svc": "Paramount+"
+    },
+    {
+     "d": "Rent $5.99. Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "The King of Kings",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "angel",
+     "name": "Angel",
+     "url": "https://www.angel.com/title/movie/69948321-6173-4d15-96da-fc652409f9a2"
+    },
+    {
+     "how": "sub",
+     "key": "paramount",
+     "name": "Paramount+",
+     "url": "https://www.paramountplus.com/movies/king-of-kings/ALVE01M4SD3CJGEZ3S3YFY9YH51FZX"
+    }
+   ],
+   "watched": true,
+   "year": 2025
+  },
+  {
    "age": "CSM 6+",
    "glow": "rgba(130,80,220,.35)",
    "id": "hotel-transylvania",
@@ -807,6 +808,7 @@
     }
    ],
    "runtime": 92,
+   "stars": 4,
    "stream": [
     {
      "d": "Included with Hulu.",
@@ -1014,5 +1016,5 @@
    "year": 2023
   }
  ],
- "updated": "2026-11-23T02:04:41Z"
+ "updated": "2026-11-23T05:04:33Z"
 }
