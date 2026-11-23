@@ -53,74 +53,6 @@
    "year": 2023
   },
   {
-   "age": "CSM 6+",
-   "glow": "rgba(130,80,220,.35)",
-   "id": "hotel-transylvania",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "Dracula's overprotective plan for his daughter's 118th birthday goes sideways when a human wanders into his monster hotel.",
-   "poster": "posters/hotel-transylvania.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 92,
-   "stream": [
-    {
-     "d": "Included with Hulu.",
-     "how": "inc",
-     "svc": "Hulu"
-    },
-    {
-     "d": "Paramount+ subscription.",
-     "how": "sub",
-     "svc": "Paramount+"
-    },
-    {
-     "d": "Rent $3.99. Buy $14.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV"
-    }
-   ],
-   "title": "Hotel Transylvania",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "hulu",
-     "name": "Hulu",
-     "url": "https://www.hulu.com/watch/e03a6dbb-19bd-4029-b044-b3fb62f3adc5"
-    },
-    {
-     "how": "sub",
-     "key": "paramount",
-     "name": "Paramount+",
-     "url": "https://www.paramountplus.com/movies/hotel-transylvania/ALVE01M0GT64DBEX2TVEAGMVMSH3HE"
-    }
-   ],
-   "year": 2012
-  },
-  {
    "age": "CSM 8+",
    "glow": "rgba(240,190,90,.35)",
    "id": "the-king-of-kings-2025",
@@ -224,9 +156,9 @@
    "runtime": 106,
    "stream": [
     {
-     "d": "Included with Netflix.",
+     "d": "Included with Hulu.",
      "how": "inc",
-     "svc": "Netflix"
+     "svc": "Hulu"
     },
     {
      "d": "Rent $3.99. Buy $12.99.",
@@ -238,9 +170,15 @@
    "watch": [
     {
      "how": "inc",
-     "key": "netflix",
-     "name": "Netflix",
-     "url": "https://www.netflix.com/title/81776760"
+     "key": "hulu",
+     "name": "Hulu",
+     "url": "https://www.hulu.com/watch/3dd491e4-6b8f-483f-b686-c4a4c2f42fcb"
+    },
+    {
+     "how": "rent",
+     "key": "amazon-rent",
+     "name": "Amazon Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.9020ca02-cec3-4866-bfc9-a5c2e7a0dec7"
     }
    ],
    "year": 2024
@@ -369,58 +307,6 @@
     }
    ],
    "year": 2023
-  },
-  {
-   "age": "CSM 8+",
-   "glow": "rgba(60,170,220,.35)",
-   "id": "the-sea-beast",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "A girl stows away on a monster-hunting ship and finds out the sea beasts aren't what everyone says.",
-   "poster": "posters/the-sea-beast.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 0,
-     "w": "None"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 115,
-   "stream": [
-    {
-     "d": "Included with Netflix.",
-     "how": "inc",
-     "svc": "Netflix"
-    }
-   ],
-   "title": "The Sea Beast",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "netflix",
-     "name": "Netflix",
-     "url": "https://www.netflix.com/title/81018682"
-    }
-   ],
-   "year": 2022
   },
   {
    "age": "CSM 6+",
@@ -668,63 +554,6 @@
   },
   {
    "age": "CSM 9+",
-   "glow": "rgba(70,150,255,.35)",
-   "id": "secret-headquarters",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "A teen and his friends find his dad's hidden superhero base and have to defend it from mercenaries.",
-   "poster": "posters/secret-headquarters.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 2,
-     "w": "Some"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 3,
-     "w": "A lot"
-    }
-   ],
-   "runtime": 104,
-   "stream": [
-    {
-     "d": "Included with Prime Video. JustWatch lists it as leaving Prime around Nov 30.",
-     "how": "inc",
-     "svc": "Prime Video"
-    },
-    {
-     "d": "Rent from $3.99. Buy from $4.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV, Fandango"
-    }
-   ],
-   "title": "Secret Headquarters",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "prime",
-     "name": "Prime Video",
-     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.b6e16d96-a924-4d4d-b1d5-215f295e8883"
-    }
-   ],
-   "year": 2022
-  },
-  {
-   "age": "CSM 9+",
    "glow": "rgba(255,160,40,.35)",
    "id": "rebound",
    "lg": {
@@ -945,6 +774,188 @@
    "year": 2024
   },
   {
+   "age": "CSM 6+",
+   "glow": "rgba(130,80,220,.35)",
+   "id": "hotel-transylvania",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "Dracula's overprotective plan for his daughter's 118th birthday goes sideways when a human wanders into his monster hotel.",
+   "poster": "posters/hotel-transylvania.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 92,
+   "stream": [
+    {
+     "d": "Included with Hulu.",
+     "how": "inc",
+     "svc": "Hulu"
+    },
+    {
+     "d": "Paramount+ subscription.",
+     "how": "sub",
+     "svc": "Paramount+"
+    },
+    {
+     "d": "Rent $3.99. Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Hotel Transylvania",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hulu",
+     "name": "Hulu",
+     "url": "https://www.hulu.com/watch/e03a6dbb-19bd-4029-b044-b3fb62f3adc5"
+    },
+    {
+     "how": "sub",
+     "key": "paramount",
+     "name": "Paramount+",
+     "url": "https://www.paramountplus.com/movies/hotel-transylvania/ALVE01M0GT64DBEX2TVEAGMVMSH3HE"
+    }
+   ],
+   "watched": true,
+   "year": 2012
+  },
+  {
+   "age": "CSM 8+",
+   "glow": "rgba(60,170,220,.35)",
+   "id": "the-sea-beast",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A girl stows away on a monster-hunting ship and finds out the sea beasts aren't what everyone says.",
+   "poster": "posters/the-sea-beast.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 115,
+   "stars": 4,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    }
+   ],
+   "title": "The Sea Beast",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81018682"
+    }
+   ],
+   "watched": true,
+   "year": 2022
+  },
+  {
+   "age": "CSM 9+",
+   "glow": "rgba(70,150,255,.35)",
+   "id": "secret-headquarters",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A teen and his friends find his dad's hidden superhero base and have to defend it from mercenaries.",
+   "poster": "posters/secret-headquarters.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 2,
+     "w": "Some"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 3,
+     "w": "A lot"
+    }
+   ],
+   "runtime": 104,
+   "stars": 5,
+   "stream": [
+    {
+     "d": "Included with Prime Video. JustWatch lists it as leaving Prime around Nov 30.",
+     "how": "inc",
+     "svc": "Prime Video"
+    },
+    {
+     "d": "Rent from $3.99. Buy from $4.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV, Fandango"
+    }
+   ],
+   "title": "Secret Headquarters",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "prime",
+     "name": "Prime Video",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.b6e16d96-a924-4d4d-b1d5-215f295e8883"
+    }
+   ],
+   "watched": true,
+   "year": 2022
+  },
+  {
    "age": "CSM 8+",
    "glow": "rgba(170,90,200,.35)",
    "id": "wonka",
@@ -1003,5 +1014,5 @@
    "year": 2023
   }
  ],
- "updated": "2026-11-20T22:24:48Z"
+ "updated": "2026-11-23T02:04:41Z"
 }
