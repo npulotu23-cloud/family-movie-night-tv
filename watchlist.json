@@ -1,6 +1,235 @@
 {
  "movies": [
   {
+   "age": "CSM 6+",
+   "glow": "rgba(240,170,40,.35)",
+   "id": "encanto",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "A girl with no magic gift in a magical Colombian family tries to save their enchanted home.",
+   "poster": "posters/encanto.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 102,
+   "stream": [
+    {
+     "d": "Included with Disney+.",
+     "how": "inc",
+     "svc": "Disney+"
+    },
+    {
+     "d": "Rent $3.99. Buy from $9.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Encanto",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "disney",
+     "name": "Disney+",
+     "url": "https://www.disneyplus.com/browse/entity-328b0ec7-6e50-4ead-aa7f-c8bb92e6f08a"
+    },
+    {
+     "how": "rent",
+     "key": "amazon-rent",
+     "name": "Amazon (rent)",
+     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.550b6943-de8f-42ae-b63f-e56f25195698"
+    }
+   ],
+   "year": 2021
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(40,170,200,.35)",
+   "id": "moana-2016",
+   "lg": {
+    "state": "note",
+    "text": "Common Sense Media says: \"Moana's voice actress, Auli'i Cravalho, came out as bisexual four years after the movie's release, but there isn't LGBTQ+ representation within the movie itself.\" The Plugged In review mentions no gay content."
+   },
+   "line": "A chief's daughter sails across the ocean with the demigod Maui to restore the stolen heart of an island goddess.",
+   "poster": "posters/moana-2016.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 107,
+   "stream": [
+    {
+     "d": "Included with HBO Max.",
+     "how": "inc",
+     "svc": "HBO Max"
+    }
+   ],
+   "title": "Moana",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hbo",
+     "name": "HBO Max",
+     "url": "https://play.hbomax.com/show/13cc47d1-3f2f-4ca4-bdec-96a7e282c29b?utm_source=universal_search"
+    }
+   ],
+   "year": 2016
+  },
+  {
+   "age": "CSM 7+",
+   "glow": "rgba(240,110,40,.35)",
+   "id": "space-jam",
+   "lg": {
+    "state": "none",
+    "text": "None found. The Common Sense Media review doesn't mention any."
+   },
+   "line": "Michael Jordan joins Bugs Bunny and the Looney Tunes for a basketball game against aliens who want to kidnap them.",
+   "poster": "posters/space-jam.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 88,
+   "stream": [
+    {
+     "d": "Included with HBO Max.",
+     "how": "inc",
+     "svc": "HBO Max"
+    },
+    {
+     "d": "Rent $4.99. Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Space Jam",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hbo",
+     "name": "HBO Max",
+     "url": "https://play.hbomax.com/show/911ef770-d719-451b-8ad5-95a15712df90"
+    }
+   ],
+   "year": 1996
+  },
+  {
+   "age": "CSM 8+",
+   "glow": "rgba(240,120,40,.35)",
+   "id": "puss-in-boots-the-last-wish",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "Down to his last life, Puss in Boots races to find a wishing star while a fearsome wolf hunts him.",
+   "poster": "posters/puss-in-boots-the-last-wish.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 2,
+     "w": "Some"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 100,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    },
+    {
+     "d": "Rent $3.99. Buy $7.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Puss in Boots: The Last Wish",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/81555726"
+    }
+   ],
+   "year": 2022
+  },
+  {
    "age": "CSM 7+",
    "glow": "rgba(240,150,50,.35)",
    "id": "chicken-run-dawn-of-the-nugget",
@@ -423,68 +652,6 @@
    "year": 2017
   },
   {
-   "age": "CSM 10+",
-   "glow": "rgba(255,90,60,.35)",
-   "id": "speed-racer",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "A teen racing prodigy takes on a crooked racing empire in a candy-colored, all-action race epic.",
-   "poster": "posters/speed-racer.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 2,
-     "w": "Some"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 2,
-     "w": "Some"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 135,
-   "stream": [
-    {
-     "d": "Included with Prime Video.",
-     "how": "inc",
-     "svc": "Prime Video"
-    },
-    {
-     "d": "Add-on channel inside Prime Video, $2.99/mo. Not included with Prime.",
-     "how": "ch",
-     "svc": "Howdy channel on Prime"
-    },
-    {
-     "d": "Rent $5.99. Buy from $7.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV, Fandango"
-    }
-   ],
-   "title": "Speed Racer",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "prime",
-     "name": "Prime Video",
-     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.1aa9f741-7ed6-9f7a-5a59-eef6e0ac1fcf"
-    }
-   ],
-   "year": 2008
-  },
-  {
    "age": "CSM 9+",
    "glow": "rgba(255,160,40,.35)",
    "id": "rebound",
@@ -551,74 +718,6 @@
     }
    ],
    "year": 2005
-  },
-  {
-   "age": "CSM 8+",
-   "glow": "rgba(150,90,255,.35)",
-   "id": "clash-of-the-thundermans",
-   "lg": {
-    "state": "none",
-    "text": "None found. The Common Sense Media review doesn't mention any."
-   },
-   "line": "The superhero Thunderman family reunites to stop a villain, and the siblings have to work as a team.",
-   "poster": "posters/clash-of-the-thundermans.jpg",
-   "rating": "TV-G",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 0,
-     "w": "None"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 71,
-   "stream": [
-    {
-     "d": "Paramount+ Essential, $8.99/mo. Not one of your deck services.",
-     "how": "sub",
-     "svc": "Paramount+"
-    },
-    {
-     "d": "Add-on inside Prime Video, $8.99/mo. Not included with Prime.",
-     "how": "ch",
-     "svc": "Paramount+ channel on Prime"
-    },
-    {
-     "d": "Rent from $3.99. Buy $9.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV, Fandango"
-    }
-   ],
-   "title": "Clash of the Thundermans",
-   "watch": [
-    {
-     "how": "sub",
-     "key": "paramount",
-     "name": "Paramount+",
-     "url": "https://www.paramountplus.com/movies/clash-of-the-thundermans/ALVE01KTJ0V5J2E0YBYK9PBX2BTYT9"
-    },
-    {
-     "how": "rent",
-     "key": "amazon-rent",
-     "name": "Amazon",
-     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.69aa2f0c-f54d-47be-b6e3-5f0901d6311b"
-    }
-   ],
-   "year": 2026
   },
   {
    "above": "Above the deck's PG limit. Not rated in the US; Common Sense says 11+. It's here because you added it.",
@@ -1016,5 +1115,5 @@
    "year": 2023
   }
  ],
- "updated": "2026-11-23T05:04:33Z"
+ "updated": "2026-11-23T21:06:19Z"
 }
