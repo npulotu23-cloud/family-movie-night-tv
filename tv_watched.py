@@ -3,10 +3,12 @@
 
   python3 -I tv_watched.py kids          # reads tv/watched-kids.json
   DATE_KEY=... python3 -I tv_watched.py date   # reads tv/watched-date.enc, scrambled with the Date Night passphrase
+  DATE_KEY=... python3 -I tv_watched.py date shows   # the "How's it going?" answers about shows instead
 
 Run from this repo's checkout. Prints one line per answer, "<doc id> <time in ms> <stars>" (stars 1-5, or 0 when
 they skipped rating it), oldest first, and nothing when
-there are none (or the file can't be read). The TV writes these files with a GitHub token limited to this repo;
+there are none (or the file can't be read). With "shows": "<doc id> <time in ms> <state>", state one of
+watching (keep it first, not counted toward the 10), dropped (not for us: take it off the list) or finished. The TV writes these files with a GitHub token limited to this repo;
 the cloud routines mark each movie watched in the phone app and remember "<id>@<time>" so it is applied only once.
 """
 import json
@@ -36,6 +38,16 @@ def read(which):
         return {}
 
 
+def shows(which):
+    rows = []
+    for w in read(which).get("shows", []):
+        i, at, st = str(w.get("id", "")), w.get("at"), w.get("state")
+        if re.fullmatch(r"[a-z0-9][a-z0-9-]{0,120}", i) and isinstance(at, int) and at > 0 and st in ("watching", "dropped", "finished"):
+            rows.append((at, i, st))
+    for at, i, st in sorted(rows):
+        print(i, at, st)
+
+
 def main(which):
     rows = []
     for w in read(which).get("watched", []):
@@ -48,6 +60,6 @@ def main(which):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2 or sys.argv[1] not in ("kids", "date"):
+    if len(sys.argv) not in (2, 3) or sys.argv[1] not in ("kids", "date") or sys.argv[2:] not in ([], ["shows"]):
         sys.exit(__doc__)
-    main(sys.argv[1])
+    (shows if sys.argv[2:] else main)(sys.argv[1])
