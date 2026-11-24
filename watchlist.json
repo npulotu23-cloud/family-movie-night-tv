@@ -471,74 +471,6 @@
   },
   {
    "age": "CSM 6+",
-   "glow": "rgba(230,180,90,.35)",
-   "id": "david-2025",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "An animated musical that follows David from shepherd boy to giant-slayer to king.",
-   "poster": "posters/david-2025.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 0,
-     "w": "None"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 115,
-   "stream": [
-    {
-     "d": "Included with Netflix.",
-     "how": "inc",
-     "svc": "Netflix"
-    },
-    {
-     "d": "Included with Angel.",
-     "how": "inc",
-     "svc": "Angel"
-    },
-    {
-     "d": "Buy $14.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV"
-    }
-   ],
-   "title": "David",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "netflix",
-     "name": "Netflix",
-     "url": "https://www.netflix.com/title/82836255"
-    },
-    {
-     "how": "inc",
-     "key": "angel",
-     "name": "Angel",
-     "url": "https://www.angel.com/title/movie/06637688-6ebe-4c6a-b864-415b9687fd4c"
-    }
-   ],
-   "year": 2025
-  },
-  {
-   "age": "CSM 6+",
    "glow": "rgba(80,200,140,.35)",
    "id": "the-bad-guys-2022",
    "lg": {
@@ -803,6 +735,75 @@
     }
    ],
    "year": 2024
+  },
+  {
+   "age": "CSM 6+",
+   "glow": "rgba(230,180,90,.35)",
+   "id": "david-2025",
+   "lg": {
+    "state": "none",
+    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
+   },
+   "line": "An animated musical that follows David from shepherd boy to giant-slayer to king.",
+   "poster": "posters/david-2025.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 0,
+     "w": "None"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 0,
+     "w": "Very little"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 115,
+   "stream": [
+    {
+     "d": "Included with Netflix.",
+     "how": "inc",
+     "svc": "Netflix"
+    },
+    {
+     "d": "Included with Angel.",
+     "how": "inc",
+     "svc": "Angel"
+    },
+    {
+     "d": "Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "David",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "netflix",
+     "name": "Netflix",
+     "url": "https://www.netflix.com/title/82836255"
+    },
+    {
+     "how": "inc",
+     "key": "angel",
+     "name": "Angel",
+     "url": "https://www.angel.com/title/movie/06637688-6ebe-4c6a-b864-415b9687fd4c"
+    }
+   ],
+   "watched": true,
+   "year": 2025
   },
   {
    "age": "CSM 8+",
@@ -1116,5 +1117,5 @@
    "year": 2023
   }
  ],
- "updated": "2026-11-24T02:03:02Z"
+ "updated": "2026-11-24T16:11:09Z"
 }
