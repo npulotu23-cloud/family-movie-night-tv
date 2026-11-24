@@ -64,58 +64,6 @@
    "year": 2021
   },
   {
-   "age": "CSM 6+",
-   "glow": "rgba(40,170,200,.35)",
-   "id": "moana-2016",
-   "lg": {
-    "state": "note",
-    "text": "Common Sense Media says: \"Moana's voice actress, Auli'i Cravalho, came out as bisexual four years after the movie's release, but there isn't LGBTQ+ representation within the movie itself.\" The Plugged In review mentions no gay content."
-   },
-   "line": "A chief's daughter sails across the ocean with the demigod Maui to restore the stolen heart of an island goddess.",
-   "poster": "posters/moana-2016.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 107,
-   "stream": [
-    {
-     "d": "Included with HBO Max.",
-     "how": "inc",
-     "svc": "HBO Max"
-    }
-   ],
-   "title": "Moana",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "hbo",
-     "name": "HBO Max",
-     "url": "https://play.hbomax.com/show/13cc47d1-3f2f-4ca4-bdec-96a7e282c29b?utm_source=universal_search"
-    }
-   ],
-   "year": 2016
-  },
-  {
    "age": "CSM 7+",
    "glow": "rgba(240,110,40,.35)",
    "id": "space-jam",
@@ -652,91 +600,6 @@
    "year": 2005
   },
   {
-   "above": "Above the deck's PG limit. Not rated in the US; Common Sense says 11+. It's here because you added it.",
-   "age": "CSM 11+",
-   "glow": "rgba(60,200,120,.35)",
-   "id": "panda-plan",
-   "lg": {
-    "state": "none",
-    "text": "None found. The Common Sense Media review doesn't mention any."
-   },
-   "line": "Jackie Chan, playing himself, races to stop a gang from kidnapping a baby panda.",
-   "poster": "posters/panda-plan.jpg",
-   "rating": "Not rated",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 3,
-     "w": "A lot"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 99,
-   "stream": [
-    {
-     "d": "Included with Prime Video.",
-     "how": "inc",
-     "svc": "Prime Video"
-    },
-    {
-     "d": "Peacock Premium, $12.99/mo.",
-     "how": "sub",
-     "svc": "Peacock"
-    },
-    {
-     "d": "Free with ads.",
-     "how": "free",
-     "svc": "Tubi, Roku Channel, Plex"
-    },
-    {
-     "d": "Add-on inside Prime Video, $3.99/mo.",
-     "how": "ch",
-     "svc": "Hi-YAH channel on Prime"
-    },
-    {
-     "d": "Rent from $4.99. Buy $9.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV, Fandango"
-    }
-   ],
-   "title": "Panda Plan",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "prime",
-     "name": "Prime Video",
-     "url": "https://watch.amazon.com/detail?gti=amzn1.dv.gti.7c462371-62b5-4e60-90ae-134c76648283"
-    },
-    {
-     "how": "sub",
-     "key": "peacock",
-     "name": "Peacock",
-     "url": "https://www.peacocktv.com/watch/asset/movies/panda-plan/f9afc5e9-69ef-3fa2-a637-4a6efa351d51"
-    },
-    {
-     "how": "free",
-     "key": "tubi",
-     "name": "Tubi",
-     "url": "https://tubitv.com/movies/100064260"
-    }
-   ],
-   "year": 2024
-  },
-  {
    "age": "CSM 6+",
    "glow": "rgba(230,180,90,.35)",
    "id": "david-2025",
@@ -1117,5 +980,5 @@
    "year": 2023
   }
  ],
- "updated": "2026-11-24T16:11:09Z"
+ "updated": "2026-11-24T21:02:34Z"
 }
