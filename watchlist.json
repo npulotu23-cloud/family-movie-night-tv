@@ -64,63 +64,6 @@
    "year": 2021
   },
   {
-   "age": "CSM 7+",
-   "glow": "rgba(240,110,40,.35)",
-   "id": "space-jam",
-   "lg": {
-    "state": "none",
-    "text": "None found. The Common Sense Media review doesn't mention any."
-   },
-   "line": "Michael Jordan joins Bugs Bunny and the Looney Tunes for a basketball game against aliens who want to kidnap them.",
-   "poster": "posters/space-jam.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 88,
-   "stream": [
-    {
-     "d": "Included with HBO Max.",
-     "how": "inc",
-     "svc": "HBO Max"
-    },
-    {
-     "d": "Rent $4.99. Buy $14.99.",
-     "how": "rent",
-     "svc": "Amazon, Apple TV"
-    }
-   ],
-   "title": "Space Jam",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "hbo",
-     "name": "HBO Max",
-     "url": "https://play.hbomax.com/show/911ef770-d719-451b-8ad5-95a15712df90"
-    }
-   ],
-   "year": 1996
-  },
-  {
    "age": "CSM 8+",
    "glow": "rgba(240,120,40,.35)",
    "id": "puss-in-boots-the-last-wish",
@@ -600,6 +543,65 @@
    "year": 2005
   },
   {
+   "age": "CSM 7+",
+   "glow": "rgba(240,110,40,.35)",
+   "id": "space-jam",
+   "lg": {
+    "state": "none",
+    "text": "None found. The Common Sense Media review doesn't mention any."
+   },
+   "line": "Michael Jordan joins Bugs Bunny and the Looney Tunes for a basketball game against aliens who want to kidnap them.",
+   "poster": "posters/space-jam.jpg",
+   "rating": "PG",
+   "rows": [
+    {
+     "k": "Swearing & profanity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Sexual content & innuendo",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Clothing & nudity",
+     "l": 1,
+     "w": "Mild"
+    },
+    {
+     "k": "Violence, alcohol & more",
+     "l": 2,
+     "w": "Some"
+    }
+   ],
+   "runtime": 88,
+   "stars": 4,
+   "stream": [
+    {
+     "d": "Included with HBO Max.",
+     "how": "inc",
+     "svc": "HBO Max"
+    },
+    {
+     "d": "Rent $4.99. Buy $14.99.",
+     "how": "rent",
+     "svc": "Amazon, Apple TV"
+    }
+   ],
+   "title": "Space Jam",
+   "watch": [
+    {
+     "how": "inc",
+     "key": "hbo",
+     "name": "HBO Max",
+     "url": "https://play.hbomax.com/show/911ef770-d719-451b-8ad5-95a15712df90"
+    }
+   ],
+   "watched": true,
+   "year": 1996
+  },
+  {
    "age": "CSM 6+",
    "glow": "rgba(230,180,90,.35)",
    "id": "david-2025",
@@ -633,6 +635,7 @@
     }
    ],
    "runtime": 115,
+   "stars": 5,
    "stream": [
     {
      "d": "Included with Netflix.",
@@ -980,5 +983,5 @@
    "year": 2023
   }
  ],
- "updated": "2026-11-24T21:02:34Z"
+ "updated": "2026-11-25T02:03:03Z"
 }
