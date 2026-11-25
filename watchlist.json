@@ -812,60 +812,6 @@
    "year": 2012
   },
   {
-   "age": "CSM 8+",
-   "glow": "rgba(60,170,220,.35)",
-   "id": "the-sea-beast",
-   "lg": {
-    "state": "none",
-    "text": "None found. Neither the Plugged In nor the Common Sense Media review mentions any."
-   },
-   "line": "A girl stows away on a monster-hunting ship and finds out the sea beasts aren't what everyone says.",
-   "poster": "posters/the-sea-beast.jpg",
-   "rating": "PG",
-   "rows": [
-    {
-     "k": "Swearing & profanity",
-     "l": 1,
-     "w": "Mild"
-    },
-    {
-     "k": "Sexual content & innuendo",
-     "l": 0,
-     "w": "None"
-    },
-    {
-     "k": "Clothing & nudity",
-     "l": 0,
-     "w": "Very little"
-    },
-    {
-     "k": "Violence, alcohol & more",
-     "l": 2,
-     "w": "Some"
-    }
-   ],
-   "runtime": 115,
-   "stars": 4,
-   "stream": [
-    {
-     "d": "Included with Netflix.",
-     "how": "inc",
-     "svc": "Netflix"
-    }
-   ],
-   "title": "The Sea Beast",
-   "watch": [
-    {
-     "how": "inc",
-     "key": "netflix",
-     "name": "Netflix",
-     "url": "https://www.netflix.com/title/81018682"
-    }
-   ],
-   "watched": true,
-   "year": 2022
-  },
-  {
    "age": "CSM 9+",
    "glow": "rgba(70,150,255,.35)",
    "id": "secret-headquarters",
@@ -983,5 +929,5 @@
    "year": 2023
   }
  ],
- "updated": "2026-11-25T02:03:03Z"
+ "updated": "2026-11-25T21:03:18Z"
 }
